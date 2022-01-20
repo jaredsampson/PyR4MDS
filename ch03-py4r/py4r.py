@@ -19,7 +19,7 @@ from scipy import stats
 # ols is for ordinary least squares
 from statsmodels.formula.api import ols
 
-# Use a function in thje math package:
+# Use a function in the math package:
 math.log(8, 2)
 
 plant_growth = pd.read_csv('data/plant_growth.csv')
